@@ -26,29 +26,29 @@ export const SIDEBAR_LINKS = [
     },
     {
         key:'customers',
-        label:'customers',
-        path:'/',
+        label:'Customers',
+        path:'/customers',
         icon:<HiOutlineUsers />
     },
     {
         key:'statistics',
-        label:'statistics',
-        path:'/',
+        label:'Statistics',
+        path:'/statistics',
         icon:<HiOutlineShoppingCart />
     },
 ]
 
 export const SIDEBAR_BOTTOM_LINKS = [
     {
-        key:'settings',
+        key:'ettings',
         label:'Settings',
-        path:'/',
+        path:'/settings',
         icon:<HiOutlineCog />
     },
     {
         key:'support',
         label:'Help & Support',
-        path:'/',
+        path:'/support',
         icon: <HiOutlineQuestionMarkCircle />
     },
 ]

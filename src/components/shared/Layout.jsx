@@ -5,7 +5,6 @@ import Sidebar from './Sidebar'
 const Layout = () => {
   return (
     <div className='flex w-[100%] '>
-        hello
         <div><Sidebar/></div>
         <div className='bg-slate-50 flex flex-col flex-1 h-full'>
 

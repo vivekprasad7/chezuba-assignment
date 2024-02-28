@@ -10,7 +10,6 @@ function App() {
   return (
     
       <div>
-          <h1 className='text-3xl text-red-400'>Hello</h1>
 
           <Routes>
           <Route path="/" element={<Layout/>}>
