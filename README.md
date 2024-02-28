@@ -1,5 +1,7 @@
 # UI for Minizuba - Order Lines API
 
+![image](https://github.com/vivekprasad7/chezuba-assignment/assets/26505800/eae9616e-9a0c-45b7-9e50-090bf8600ee1)
+
 ## Overview
 
 This project aims to build a user interface for accessing the Minizuba Order Lines API. The application provides a user-friendly interface to view and manage order lines, making it easier for the supervisor to navigate the API and streamline the packaging process.
