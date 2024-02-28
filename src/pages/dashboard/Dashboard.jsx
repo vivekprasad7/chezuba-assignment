@@ -1,8 +1,13 @@
 import React from 'react'
+import TopPieCards from '../../components/dashboard/dashboard-top/TopPieCards'
 
 const Dashboard = () => {
+
+
   return (
-    <div>Dashboard</div>
+    <div className='flex flex-col gap-4 w-full py-3'>
+        <TopPieCards/> 
+    </div>
   )
 }
 
